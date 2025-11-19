@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: geochron.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+The style file: ../bst/seg_nodash.bst
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+if is an illegal style-file command---line 341 of file ../bst/seg_nodash.bst
+ :   if
+ :     $
+Database file #1: ../bib/references.bib
+"{" is missing in command: function---line 1573 of file ../bst/seg_nodash.bst
+ : 
+ : ITERATE {final.pass}
+(Error may have been on previous line)
+You can't pop an empty literal stack for entry ANSDELL2005a
+while executing---line 1589 of file ../bst/seg_nodash.bst
+Warning--empty journal in HARPER2006
+You can't pop an empty literal stack for entry HARPER2006
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry MCFARLANE2013
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry MCKECHNIE2012b
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry MERCADIER2013
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry ORRELL1999
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry PARSLOW1985
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry RAY1980
+while executing---line 1589 of file ../bst/seg_nodash.bst
+You can't pop an empty literal stack for entry RAYNER2005
+while executing---line 1589 of file ../bst/seg_nodash.bst
+Warning--empty school in TRAN2001
+You can't pop an empty literal stack for entry WILLIAMS-JONES1985
+while executing---line 1589 of file ../bst/seg_nodash.bst
+Warning--empty institution in YEO2007
+You've used 26 entries,
+            2642 wiz_defined-function locations,
+            894 strings with 13565 characters,
+and the built_in function-call counts, 12071 in all, are:
+= -- 1260
+> -- 552
+< -- 23
++ -- 198
+- -- 190
+* -- 1108
+:= -- 1946
+add.period$ -- 26
+call.type$ -- 26
+change.case$ -- 225
+chr.to.int$ -- 24
+cite$ -- 29
+duplicate$ -- 433
+empty$ -- 823
+format.name$ -- 230
+if$ -- 2538
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 82
+num.names$ -- 78
+pop$ -- 190
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 366
+stack$ -- 0
+substring$ -- 775
+swap$ -- 111
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 3
+while$ -- 94
+width$ -- 0
+write$ -- 316
+(There were 12 error messages)

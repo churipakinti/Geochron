@@ -1,0 +1,86 @@
+% ==============================
+% BASIC PACKAGES
+% ==============================
+\usepackage{setspace}
+\usepackage{calc}
+\usepackage{pdflscape}
+\usepackage[final]{pdfpages}
+\usepackage{pgfgantt}
+\usepackage[normalem]{ulem}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{adjustbox}
+
+% ==============================
+% TABLES / COLORS
+% ==============================
+\usepackage[dvipsnames]{xcolor}      % load ONCE
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\AtBeginEnvironment{table}{\singlespacing}
+
+
+% ==============================
+% FIGURES
+% ==============================
+\usepackage{graphicx}
+
+
+% ==============================
+% SECTION FORMATTING
+% ==============================
+\usepackage{titlesec}        % load ONCE
+\usepackage{chngcntr}
+\counterwithin{table}{section}
+\counterwithin{figure}{section}
+
+% ==============================
+% SPACING & PARAGRAPHS
+% ==============================
+\setlength{\parindent}{15pt}
+\setlength{\parskip}{0.5em}
+\doublespacing
+
+% ==============================
+% HEADERS / FOOTERS
+% ==============================
+\usepackage{fancyhdr}
+\definecolor{pagegray}{gray}{0.4}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{gray}{Wollaston Domain geochronology compilation}}
+\fancyhead[R]{\textcolor{gray}{Bravo, J.A.}}
+\fancyfoot[R]{\textcolor{pagegray}{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ==============================
+% BIBLIOGRAPHY CONFIGURATION
+% ==============================
+\usepackage[round,authoryear]{natbib}
+\usepackage{bibunits}
+
+
+
+
+
+
+% ==============================
+% HYPERREF (MUST BE LATE)
+% ==============================
+\usepackage[colorlinks=true,
+    linkcolor=RoyalBlue,
+    citecolor=RoyalBlue,
+    urlcolor=RoyalBlue]{hyperref}
+
+\usepackage{cleveref}
+
+% ==============================
+% APPENDIX
+% ==============================
+\usepackage[toc,page]{appendix}
