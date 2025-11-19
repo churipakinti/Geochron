@@ -37,45 +37,45 @@ Warning--empty school in TRAN2001
 You can't pop an empty literal stack for entry WILLIAMS-JONES1985
 while executing---line 1589 of file ../bst/seg_nodash.bst
 Warning--empty institution in YEO2007
-You've used 26 entries,
+You've used 28 entries,
             2642 wiz_defined-function locations,
-            895 strings with 13563 characters,
-and the built_in function-call counts, 12071 in all, are:
-= -- 1260
-> -- 552
-< -- 23
-+ -- 198
-- -- 190
-* -- 1108
-:= -- 1946
-add.period$ -- 26
-call.type$ -- 26
-change.case$ -- 225
+            909 strings with 14336 characters,
+and the built_in function-call counts, 13161 in all, are:
+= -- 1376
+> -- 608
+< -- 25
++ -- 220
+- -- 210
+* -- 1206
+:= -- 2115
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 245
 chr.to.int$ -- 24
-cite$ -- 29
-duplicate$ -- 433
-empty$ -- 823
-format.name$ -- 230
-if$ -- 2538
-int.to.chr$ -- 3
+cite$ -- 31
+duplicate$ -- 467
+empty$ -- 893
+format.name$ -- 252
+if$ -- 2774
+int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 82
-num.names$ -- 78
-pop$ -- 190
+missing$ -- 27
+newline$ -- 88
+num.names$ -- 84
+pop$ -- 206
 preamble$ -- 1
-purify$ -- 225
+purify$ -- 245
 quote$ -- 0
-skip$ -- 366
+skip$ -- 401
 stack$ -- 0
-substring$ -- 775
-swap$ -- 111
-text.length$ -- 15
+substring$ -- 847
+swap$ -- 125
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 156
+type$ -- 168
 warning$ -- 3
-while$ -- 94
+while$ -- 104
 width$ -- 0
-write$ -- 316
+write$ -- 338
 (There were 12 error messages)
